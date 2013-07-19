@@ -7,5 +7,5 @@ $(function() {
   $('h1').css('font-size','40px');
   $('h2').css('font-size','30px');
   $('h3').css('font-size','20px');
-  $('h4').css('font-size','10px');
+  $('h4').css('font-size','16px');
 })

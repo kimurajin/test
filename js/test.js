@@ -7,6 +7,6 @@ $(function() {
   $('h1').css('font-size','45px');
   $('h2').css('font-size','35px');
   $('h3').css('font-size','25px');
-  $('h4').css('font-size','16px');
+  $('h4').css('font-size','20px');
   $('p').css('font-size','12px');
 })

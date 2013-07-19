@@ -8,4 +8,5 @@ $(function() {
   $('h2').css('font-size','30px');
   $('h3').css('font-size','20px');
   $('h4').css('font-size','16px');
+  $('p').css('font-size','12px');
 })
